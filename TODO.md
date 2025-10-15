@@ -1,3 +1,0 @@
-- [x] Fix import in Ts-Projects/src/services/Reminder.ts: change to named import
-- [x] Fix type in addReminder method: change post type to Reminder
-- [x] Add service call in removeReminder in Ts-Projects/src/App.tsx
